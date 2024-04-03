@@ -1,0 +1,69 @@
+{
+  "configVersion": 1,
+  "timestamp": 1712173105284,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.3cd78657f6690bbc.js",
+        "/manifest.webmanifest",
+        "/polyfills.f54809e3b5d7e58c.js",
+        "/runtime.41f469c516c459e4.js",
+        "/styles.1f3c5969fb0e3975.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/data.json",
+        "/assets/strings.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/data.json": "2b82051a65ceb835eb94b7a1f145d45323dc85d7",
+    "/assets/strings.json": "8fc231164e08256ed49ea2d1b675e3dfa8218ed3",
+    "/favicon.ico": "ced4e5dd7e56b210638c268f9fe6523402e6dbac",
+    "/index.html": "a4a570aa2cf8a7a807dcd68c983506f7a2228898",
+    "/main.3cd78657f6690bbc.js": "5e31ab4439842b4a50c25fb4ca3872d5e80e93fe",
+    "/manifest.webmanifest": "f0ade4b1e7419b8621add7105e75a68a4770bf13",
+    "/polyfills.f54809e3b5d7e58c.js": "547bf480638d469d9893ad08f160c5c33322263f",
+    "/runtime.41f469c516c459e4.js": "575dc8402e53fe458a24f80c5cb1304afe35990c",
+    "/styles.1f3c5969fb0e3975.css": "085f86789b72923db707906344ebefe895213c65"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
