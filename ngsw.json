@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1712173105284,
+  "timestamp": 1715763119227,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/coffeegram_privacy_policy.html",
         "/assets/data.json",
         "/assets/strings.json"
       ],
@@ -37,6 +38,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/coffeegram_privacy_policy.html": "da3e9de1d02f9447102bdf8dd420d844a0cee93a",
     "/assets/data.json": "2b82051a65ceb835eb94b7a1f145d45323dc85d7",
     "/assets/strings.json": "8fc231164e08256ed49ea2d1b675e3dfa8218ed3",
     "/favicon.ico": "ced4e5dd7e56b210638c268f9fe6523402e6dbac",
