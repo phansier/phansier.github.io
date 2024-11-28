@@ -1,5 +1,33 @@
 [
   {
+    "name_en": "3 Ways to Try KMP in Your Android Project",
+    "name_ru": "3 способа попробовать KMP в Android-проекте",
+    "descr_en": "Speech at Kotlin User Group Cyprus meetup",
+    "descr_ru": "Доклад на митапе Kotlin User Group Cyprus",
+    "type": "offline",
+    "articlelink": "-",
+    "preslink": "-",
+    "videolink": "https://youtu.be/vrUNlzYWN6M",
+    "eventlink": "-",
+    "lang": "en",
+    "city_ru": "Лимассол",
+    "city_en": "Limassol",
+    "year": "2024"
+  },
+  {
+    "name_en": "Organizing CI/CD in a team",
+    "name_ru": "Организация CI/CD в команде",
+    "descr_en": "Online round table at Podlodka Android Crew #12",
+    "descr_ru": "Онлайн круглый стол на Podlodka Android Crew #12",
+    "type": "online",
+    "articlelink": "-",
+    "preslink": "-",
+    "videolink": "https://youtu.be/iypYY6KnsIM",
+    "eventlink": "-",
+    "lang": "ru",
+    "year": "2024"
+  },
+  {
     "name_en": "How to bring in new technology",
     "name_ru": "Как затащить новую технологию",
     "descr_en": "Interview on Android Broadcast YouTube channel",
@@ -203,7 +231,7 @@
   {
     "name_en": "Change my mind or Android development transformation to Jetpack Compose & Coroutines",
     "name_ru": "Изменение мышления или трансформация Android-разработки на Jetpack Compose и Корутины",
-    "descr_en": "",
+    "descr_en": "Medium/ProAndroidDev article",
     "descr_ru": "Статья на Medium/ProAndroidDev",
     "type": "article",
     "articlelink": "https://proandroiddev.com/change-my-mind-or-android-development-transformation-to-jetpack-compose-coroutines-e719a342cc52",
